@@ -1,0 +1,72 @@
+.table > tbody > tr > td {
+     vertical-align: middle;
+     align: center;
+     border: 1px solid black;
+     
+}
+.declined{
+    color:red;
+}
+
+.approved{
+    color:green;
+}
+
+#main{
+       margin-top:auto;
+        margin-bottom:auto;
+        text-align:center;
+
+}
+
+.searchclient2 {
+
+  width: 300px;
+
+
+}
+
+.outer {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  /*whatever width you want*/
+}
+
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 28px;        // Make inputs at least the height of their button counterpart
+  .box-sizing(border-box); // Makes inputs behave like true block-level elements
+}
+
+.wrapper {
+  height: 600px;
+}
+#jrange input {
+  width: 200px;
+}
+#sber{
+background-color:red;
+}
+#jrange div {
+  font-size: 9pt;
+}
+.date-range-selected > .ui-state-active, .date-range-selected > .ui-state-default {
+  background: none;
+  background-color: lightsteelblue;
+}
