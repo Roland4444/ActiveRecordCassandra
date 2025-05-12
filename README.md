@@ -108,7 +108,7 @@ Active Record по М. Фаулеру, где часть бизнес логик
 Для получения jwt токена из браузера перейти по адресу
 http://localhost:12000/login
 
-Ввести логин пароль, получить gwt токен. eyJhbGciOiJIUzI1NiJ9.eyJVU0VSX0lEIjoiNDMxZmZmNjUtOGRhZS00ZDU3LWI3NjktOWZkMWY2MTk3NTZiIiwiaWF0IjoxNzQ3MDU4MzY1LCJleHAiOjE3NDcwNTkyNjV9.LAaEHHotH6voJjOMakRhRLCMmQxmc9lmEtDGHGxTfhE
+Ввести логин пароль, получить jwt токен. eyJhbGciOiJIUzI1NiJ9.eyJVU0VSX0lEIjoiNDMxZmZmNjUtOGRhZS00ZDU3LWI3NjktOWZkMWY2MTk3NTZiIiwiaWF0IjoxNzQ3MDU4MzY1LCJleHAiOjE3NDcwNTkyNjV9.LAaEHHotH6voJjOMakRhRLCMmQxmc9lmEtDGHGxTfhE
 По умолчанию пароль 1234567, логин email или phone.
 <br><br>
 2. Для добавления email , phone
